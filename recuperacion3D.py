@@ -1,3 +1,5 @@
+#CANUL CHAVEZ JUDITH ELUZAI
+#No.CONTROL: 18390034
 import matplotlib.pyplot as plt
 import numpy as np
 from math import sin, cos, radians, sqrt
